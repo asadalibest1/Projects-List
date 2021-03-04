@@ -17,9 +17,6 @@
   </> <a href="https://github.com/asadalibest1/RedQueenReactApp.github.io">Red-queen-race-app</a>
   -[<a href="https://github.com/asadalibest1/RedQueenReactApp.github.io">Github-Repo</a>]
   
-  </> <a href="http://todo-react-appasad.surge.sh/">Todo-React-App</a>
-  -[<a href="https://github.com/asadalibest1/todo-react-app">Github-Repo</a>] 
-  
   </> <a href="https://github.com/asadalibest1/Bootstrap/tree/master/bootstrap%20tem">Bootsrap 4</a>
 
   </> <a href="http://todo-react-appasad.surge.sh/">Todo-React-App</a>
@@ -58,5 +55,5 @@
   </> <a href="https://asadalibest1.github.io/Web-Animation-Api-with-Hooks/">Web-Animation</a>
   -[<a href="https://github.com/asadalibest1/Web-Animation-Api-with-Hooks">Github-Repo</a>]
   
-  </> <a href="https://asadalibest1.github.io/librarie-app-with-meragejs/">librarie-app-with-meragejs</a>
+  </> <a href="https://github.com/asadalibest1/librarie-app-with-meragejs">librarie-app-with-meragejs</a>
   -[<a href="https://github.com/asadalibest1/librarie-app-with-meragejs">Github-Repo</a>]
