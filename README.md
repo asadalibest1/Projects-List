@@ -34,7 +34,7 @@
   </> <a href="https://react-typescriptpwa-quizapp.web.app/">PWA-expense-tracker-app</a>
   -[<a href="https://github.com/asadalibest1/PWA-expense-tracker-app">Github Repo</a>] 
   
-  </> <a href="https://pwa-quiz-app2.web.app/">PWA-react-typescript-quiz-app</a>
+  </> <a href="https://pwa-react-typescript-qui-561e9.web.app/">PWA-react-typescript-quiz-app</a>
   -[<a href="https://github.com/asadalibest1/PWA-react-typescript-quiz-app">Github-Repo</a>]
     
    </> <a href="http://bootstrapfive.surge.sh/">Website with Bootstrap 5</a>
